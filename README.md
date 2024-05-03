@@ -1,4 +1,11 @@
-# Hi there! 👋
+# Welcome to my corner of the GitHub universe! 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MSkagh)](https://github.com/MSkagh)
+[![GitHub Followers](https://img.shields.io/github/followers/MSkagh?style=social)](https://github.com/MSkagh)
+[![GitHub Repositories](https://img.shields.io/badge/Repos-MSkagh-blueviolet)](https://github.com/MSkagh?tab=repositories)
+[![GitHub Contributions](https://img.shields.io/github/last-commit/MSkagh/MSkagh)](https://github.com/MSkagh)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSkagh)](https://github.com/MSkagh)
 
 ## About Me
 
